@@ -1,0 +1,17 @@
+/*-- scss:defaults --*/
+
+/* TODO: Customize presentation appearance by setting SCSS variables */
+/* See https://quarto.org/docs/presentations/revealjs/themes.html#customizing-themes */
+
+$body-bg: #2E075C; // Background color
+$body-color: #e0d9fb; // Default text color
+$link-color: #599be4; // Link color
+$link-color-hover: lighten($link-color, 15%);
+$selection-bg: #1c527e; // Color of selection
+$selection-color: #ced2fa; // Color of selected text
+$border-color: lighten($body-color, 30%); // Color for borders
+$presentation-heading-color: #90b7f0; // Color for headings
+
+/*-- scss:rules --*/
+
+/* TODO: Provide custom CSS rules */

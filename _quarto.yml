@@ -1,0 +1,9 @@
+project:
+  type: website
+  resources:
+    - robots.txt
+
+lang: fr-CH
+
+website:
+  title: "Test"
